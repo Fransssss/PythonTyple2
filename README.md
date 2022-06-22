@@ -1,4 +1,4 @@
-# PythonTyple2
+# PythonTuple2
 Basic tuple with Python
 -use list.count(word)
 -use list.index(word)
